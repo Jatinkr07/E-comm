@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Marketplace from "./pages/Marketplace";
+import Marketplace from "./pages/MarketPlace";
 import AddProduct from "./pages/AddProducts";
 import Orders from "./pages/Orders";
 
